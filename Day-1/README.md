@@ -20,8 +20,8 @@ A RESTful API built with Node.js, Express, TypeScript, and MongoDB. This project
 1. **Clone the repository:**
 
    ```bash
-   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-   cd your-repo-name
+   git clone https://github.com/muhammad-khaled-tech/web-services-ITI/tree/main/Day-1
+   cd web-services-ITI/Day-1
    ```
 
 2. **Install dependencies:**
